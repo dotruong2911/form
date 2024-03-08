@@ -1,0 +1,45 @@
+{
+  "score": [
+    {
+      "id": "1",
+      "username": "letuanthanh",
+      "toan": 100,
+      "ly": 100,
+      "hoa": 100
+    },
+    {
+      "id": "2",
+      "username": "doxuantruong",
+      "toan": 100,
+      "ly": 200,
+      "hoa": 150
+    },
+    {
+      "id": "3",
+      "username": "daodanhluu",
+      "toan": 200,
+      "ly": 100,
+      "hoa": 300
+    }
+  ],
+  "student": [
+    {
+      "id": "d053",
+      "username": "doxuantruong",
+      "email": "dotruongnd94@gmail.com",
+      "password": "Test1234!"
+    },
+    {
+      "id": "0117",
+      "username": "letuanthanh",
+      "email": "dotruongnd94@gmail.com",
+      "password": "Test1234!"
+    },
+    {
+      "id": "6c31",
+      "username": "daodanhluu",
+      "email": "dotruongnd94@gmail.com",
+      "password": "Test1234!"
+    }
+  ]
+}

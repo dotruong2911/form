@@ -1,0 +1,16 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.input {
+  position: relative;
+}
+
+.error {
+  position: absolute;
+  top: 55px;
+  color: red;
+  font-size: 13px;
+}
